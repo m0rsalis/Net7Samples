@@ -1,0 +1,1 @@
+Very simple web application that demonstrated several new things brought in by .NET7 and C#11
